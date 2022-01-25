@@ -14,3 +14,8 @@ TODO:
 
 Save states as I forgot to implement it before rushing this out.
 Automation.
+
+
+Screenshot:
+
+![alt text](https://github.com/ligma-boolz/GAYN/blob/main/GAYN.screenshot.jpg)
