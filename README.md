@@ -1,5 +1,7 @@
 # GAYN
-vst3 plugin
+![alt text](https://github.com/ligma-boolz/GAYN/blob/main/Ligma-Boolz%20Presents%20Gayn.png)
+
+Free vst3 plugin
 
 Here is our very first vst3 plugin. Not only is making a gain plugin like the "HelloWorld" of vst programming, it's also the first stage of mixing(gain staging).
 Getting your levels correct before starting a mix is essential to give you the headroom necessary to mix without levels clipping inside the DAW.
